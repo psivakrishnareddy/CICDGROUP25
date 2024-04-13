@@ -1,0 +1,2 @@
+#define CICDGROUP25_API __declspec(dllexport)
+#define CICDGROUP25_API __declspec(dllimport)
